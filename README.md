@@ -1,2 +1,2 @@
-# TO--DO--APP
+# TO-DO-APP
 To Do App using Html, CSS and Javascript
